@@ -5,7 +5,7 @@ var lib = [
   'Seja mais criterioso ao avaliar sua carreira. Não se autoflagele com seus pontos fracos.',
   'Afim de incentivar os colaboradores a utilizarem os benefícios concedidos, utilizamos deste para alertar que o não uso dos mesmos acarretará a perda do mesmo.',
   'O que fazer para ser um profissional cobiçado? Primeiro: ser profissional. Segundo: fazer diferente!',
-  'Não é de responsabilidade da empresa cadastrar colaboradores ou dependentes. Tomamos essa iniciativa para que de certa forma consigamos incentivar para que todos façam a utilização deste.',
+  'Não é de responsabilidade da empresa cadastrar colaboradores. Tomamos essa iniciativa para que de certa forma consigamos incentivar para que todos façam a utilização deste para o seu bem.',
   'Comunicamos que o próximo feriado será gozado normalmente pelos colaboradores, salvo pessoas estratégicas que precisarão estar no Suporte e também no Corporativo para que sejam atendidas as demandas',
   'Nenhum trabalho dura para sempre. Pra falar a verdade todo trabalho deveria ter validade. A partir do momento que você não se desenvolve, esse fim está próximo do vencimento.',
   'Como é de conhecimento de todos estamos em expansão comercial e estrutural, conquistando novos  clientes, contratando novos profissionais, desenvolvendo e implementando estratégias cada vez mais estratégicas e inovadoras.',
