@@ -35,7 +35,7 @@ var lib = [
   'Chefes autoritários só respeitam funcionários audaciosos.',
   'A vida é como uma grande firma, a qual despede seus funcionários e contrata novos.',
   'O segredo do sucesso é tratar seus funcionários como seres humanos e não como coisas.',
-  'Primeiramente sempre devemos pensar nos funcionarios da Empresa, pois sem o motor o carro não se desloca',
+  'Primeiramente sempre devemos pensar nos funcionários da Empresa, pois sem o motor o carro não se desloca',
   'Meu lema é confiar. Confiar no freguês, nos fornecedores, nos funcionários, nos amigos e, principalmente, em mim.',
   'Os bons funcionários nas empresas não estão ameaçados pelas pessoas más, e sim por aquelas que permitem a maldade no ambiente.',
   'A melhor equipe não conta apenas com os melhores funcionários, mas também com o funcionário certo para a função certa.',
