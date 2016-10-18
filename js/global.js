@@ -94,7 +94,18 @@ $(window).load(function() {
   // Remove preloader
   // https://ihatetomatoes.net/create-custom-preloading-screen/
   $('body').addClass('loaded');
+
   $('#generate').click(function(){
     returnText($('#paragraphNumber').val())
   });
+
+  $('#paragraphNumber').keyup(function(){
+    if($(this).val() > 10)
+      $(this).val(10)
+
+    if($(this).val() < 1)
+      $(this).val(1)
+  });
+
+
 });
