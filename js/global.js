@@ -107,9 +107,4 @@ $(window).load(function() {
     returnText(paragraphInput.val())
   });
 
-  $('#paragraphNumber').keyup(function(){
-
-  });
-
-
 });
