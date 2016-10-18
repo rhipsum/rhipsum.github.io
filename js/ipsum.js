@@ -74,7 +74,6 @@ function returnText(numOfParagraphs) {
 
         text+= lib[randNumber] + ' ';
       }
-
   }
 
   $("#ipsumText").val(text);
