@@ -96,15 +96,19 @@ $(window).load(function() {
   $('body').addClass('loaded');
 
   $('#generate').click(function(){
-    returnText($('#paragraphNumber').val())
+    var paragraphInput = $('#paragraphNumber');
+
+    if(paragraphInput.val() > 10)
+      paragraphInput.val(10)
+
+    if(paragraphInput.val() < 1)
+      paragraphInput.val(1)
+
+    returnText(paragraphInput.val())
   });
 
   $('#paragraphNumber').keyup(function(){
-    if($(this).val() > 10)
-      $(this).val(10)
 
-    if($(this).val() < 1)
-      $(this).val(1)
   });
 
 
