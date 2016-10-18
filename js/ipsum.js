@@ -6,7 +6,7 @@ var lib = [
   'Afim de incentivar os colaboradores a utilizarem os benefícios concedidos, utilizamos deste para alertar que o não uso dos mesmos acarretará a perda do mesmo.',
   'O que fazer para ser um profissional cobiçado? Primeiro: ser profissional. Segundo: fazer diferente!',
   'Não é de responsabilidade da empresa cadastrar colaboradores. Tomamos essa iniciativa para que de certa forma consigamos incentivar para que todos façam a utilização deste para o seu bem.',
-  'Comunicamos que o próximo feriado será gozado normalmente pelos colaboradores, salvo pessoas estratégicas que precisarão estar no Suporte e também no Corporativo para que sejam atendidas as demandas',
+  'Comunicamos que o próximo feriado será gozado normalmente pelos colaboradores, salvo pessoas estratégicas que precisarão estar no Suporte e também no Corporativo para que sejam atendidas as demandas.',
   'Nenhum trabalho dura para sempre. Pra falar a verdade todo trabalho deveria ter validade. A partir do momento que você não se desenvolve, esse fim está próximo do vencimento.',
   'Como é de conhecimento de todos estamos em expansão comercial e estrutural, conquistando novos  clientes, contratando novos profissionais, desenvolvendo e implementando estratégias cada vez mais estratégicas e inovadoras.',
   'Paralelo a esta expansão estamos implementando políticas de gestão pautadas na igualdade e meritocracia, sempre buscando oferecer aos colaboradores de maneira semelhante um ambiente de trabalho e ferramentas para as atividades laborais.',
@@ -18,10 +18,10 @@ var lib = [
   'As pessoas irão lembrar-se a longo prazo.',
   'Temos que ser sábios o suficiente para tomada de decisão, por mais simples que seja, terá consequências complexas.',
   'Pensar no desenvolvimento e manutenção do colaborador, é garantir o clima organizacional saudável para empresa.',
-  'Saber gerir pessoas é uma arte para poucos!',
+  'Contamos com a colaboração de todos para que sejam seguidos os procedimentos estratégicos formulados pelo corporativo.',
   'Antes de escolher se você será um profissional generalista ou especialista em sua área defina que profissional você quer ser.',
   'As expectativas de Sucesso são estímulos para continuar, muito embora saibamos que elas sem trabalho duro de nada adiantam.',
-  'Em qualquer tipo de organização nenhum capital humano é novo demais que não possa aprender ou velho demais que não possa se adaptar.',
+  'Com a ingressão de novos colaboradores com uma certa frequência e quantidade, afim de melhorar a nossa comunicação, gostaríamos de contar com a colaboração de todos para que façam a utilização do bom senso para que juntos possamos organizar cada vez melhor o meio corporativo.',  
   'Quanto maior o capital humano acumulado através da educação, maior é o diferencial de uma pessoa.',
   'Há situações do dia a dia que colocam em cheque os nossos valores humanos e esses são fundamentais e intocáveis.',
   'Devido a importância de preservar a integridade da identidade visual e profissional da empresa, solicitamos a todos os colaboradores que usem suas credenciais.',
@@ -78,7 +78,6 @@ function returnText(numOfParagraphs) {
 
   $("#ipsumText").val(text);
 }
-
 
 function randomNumber() {
   var sort = Math.floor(Math.random() * 50);
